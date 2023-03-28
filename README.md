@@ -4,7 +4,7 @@ Submitted by: **Krrish Verma**
 
 **BitFit** is a health metrics app that allows users to track their daily water intake.
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
