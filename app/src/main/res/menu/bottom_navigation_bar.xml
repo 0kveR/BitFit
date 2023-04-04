@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/report_data"
+        android:enabled="true"
+        android:icon="@drawable/icon_water"
+        android:title="Report Data"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/graph_data"
+        android:enabled="true"
+        android:icon="@drawable/icon_graph"
+        android:title="Graph"
+        app:showAsAction="ifRoom" />
+</menu>
